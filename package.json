@@ -22,5 +22,9 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
     "vite": "^4.4.5"
-  }
+  },
+  "description": "\"A simple tic-tac-toe game\"",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
 }
